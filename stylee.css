@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+}
+.mon{
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
+.mua{
+    margin: 10px;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: rgb(230, 69, 69);
+    color: white;
+    float: right;
+}
+a{
+    text-decoration: none;
+    color: red;
+    margin-right: 10px ;
+    padding-bottom: 30%;
+}
+h2{
+    text-decoration: underline;
+}
